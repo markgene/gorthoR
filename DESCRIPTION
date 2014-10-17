@@ -1,0 +1,9 @@
+Package: gorthoR
+Type: Package
+Title: R package
+Version: 0.2
+Date: 2014-01-18
+Author: Mark J Chen
+Maintainer: Mark J Chen <chenj99@gene.com>
+Description: gorthoR fetch data from gOrtholog, a ortholog database
+License: Artistic-2.0

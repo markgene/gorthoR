@@ -1,0 +1,8 @@
+export(GetAlignment)
+export(GetAllOrthologs)
+export(GetClusterID)
+export(GetOrthologs)
+export(GetTree)
+export(LoadGorthologData)
+import(Biostrings)
+import(ape)
